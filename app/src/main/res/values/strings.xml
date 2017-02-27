@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneAndMessageJs</string>
+    <string name="android">android</string>
+    <string name="b">这是界面B</string>
+</resources>
